@@ -10,7 +10,7 @@ This GitHub repository contains Python scripts for visualizing COVID-19 data usi
 - The primary dataset used is located at: [owid-covid-data.csv](C:\Users\meena\Downloads\owid-covid-data.csv\owid-covid-data.csv)
 - This dataset is sourced from "Our World in Data" and provides comprehensive COVID-19 statistics for various countries.
 
-### Python Scripts
+### Jupyter Scripts
 1. **[iitbombay.ipynb](iitbombay.ipynb):**
     - This script loads the COVID-19 dataset, processes the data, and creates visualizations using Matplotlib, Seaborn, and Plotly Express.
     - It includes functions for drawing a pie chart, bubble plot, and bar graph.
