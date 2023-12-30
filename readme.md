@@ -44,6 +44,9 @@ This GitHub repository contains Python scripts for visualizing COVID-19 data usi
 
 3. **Total Cases by Year-Month Bar Graph:**
    - Presents a bar graph illustrating the total COVID-19 cases in India, with facets for each month and year.
+   - ![image](https://github.com/Goutammeena03/covid-19-data-visualise/assets/125290702/2f6dae6d-7478-4efd-9f54-2f24de28feca)
+
+
 
 ## Notes
 
