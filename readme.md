@@ -34,9 +34,13 @@ This GitHub repository contains Python scripts for visualizing COVID-19 data usi
 
 1. **Vaccination Status in India Pie Chart:**
    - Displays the distribution of fully vaccinated, partially vaccinated, and not vaccinated individuals in India.
+   - ![image](https://github.com/Goutammeena03/covid-19-data-visualise/assets/125290702/1a01dca6-9d80-471f-bf62-3ed46db9a91e)
+
 
 2. **Yearly Month-wise COVID-19 Statistics Bubble Plot:**
    - Depicts the progression of COVID-19 cases in a bubble plot, with bubble sizes representing population and color indicating the year.
+   - ![image](https://github.com/Goutammeena03/covid-19-data-visualise/assets/125290702/366a8d6d-b624-4b38-bf4d-ecbe4a95e56d)
+
 
 3. **Total Cases by Year-Month Bar Graph:**
    - Presents a bar graph illustrating the total COVID-19 cases in India, with facets for each month and year.
